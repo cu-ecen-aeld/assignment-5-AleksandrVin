@@ -4,7 +4,7 @@
 
 source shared.sh
 
-export BR2_DL_DIR=dl_dir
+export BR2_DL_DIR=../dl_dir
 
 EXTERNAL_REL_BUILDROOT=../base_external
 git submodule init
