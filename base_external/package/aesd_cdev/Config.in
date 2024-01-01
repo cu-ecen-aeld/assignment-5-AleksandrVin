@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESD_CDEV
+	bool "aesd_cdev"
+	help
+	  driver for assignment8
